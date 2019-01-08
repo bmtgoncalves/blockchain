@@ -1,5 +1,6 @@
 *.zip
 *.asc
+*.asc.gz
 
 # Jeckyll
 Gemfile
