@@ -1,3 +1,6 @@
+*.zip
+*.asc
+
 # Jeckyll
 Gemfile
 Gemfile.lock
